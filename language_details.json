@@ -1,0 +1,111 @@
+{
+    "Python": {
+        "file_count": 5341,
+        "max_steps": 478706,
+        "top_imports": [
+            [
+                "import torch",
+                1563
+            ],
+            [
+                "import os",
+                715
+            ],
+            [
+                "from typing import",
+                542
+            ],
+            [
+                "import numpy",
+                381
+            ],
+            [
+                "import sys",
+                346
+            ]
+        ]
+    },
+    "null": {
+        "file_count": 11,
+        "max_steps": 58646,
+        "top_imports": []
+    },
+    "C": {
+        "file_count": 488,
+        "max_steps": 86680,
+        "top_imports": [
+            [
+                "import React",
+                3
+            ],
+            [
+                "import Web3",
+                2
+            ],
+            [
+                "import App",
+                2
+            ],
+            [
+                "import ReactDOM",
+                1
+            ],
+            [
+                "import reportWebVitals",
+                1
+            ]
+        ]
+    },
+    "Jupyter Notebook": {
+        "file_count": 137,
+        "max_steps": 514055,
+        "top_imports": [
+            [
+                "import time",
+                2
+            ],
+            [
+                "import torch",
+                2
+            ],
+            [
+                "import requests",
+                1
+            ],
+            [
+                "from bs4 import",
+                1
+            ],
+            [
+                "import json",
+                1
+            ]
+        ]
+    },
+    "JavaScript": {
+        "file_count": 15,
+        "max_steps": 30039,
+        "top_imports": [
+            [
+                "import React",
+                2
+            ],
+            [
+                "import App",
+                2
+            ],
+            [
+                "import Web3",
+                1
+            ],
+            [
+                "import ReactDOM",
+                1
+            ],
+            [
+                "import reportWebVitals",
+                1
+            ]
+        ]
+    }
+}
