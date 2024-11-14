@@ -155,7 +155,7 @@ def save_readme(language_usage, language_data):
     update_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
 
     with open("README.md", "w") as f:
-        f.write("# Hi there 👋\n\n"")
+        f.write("# Hi there 👋\n\n")
         f.write("## Language Usage\n\n")
         f.write(f">[!NOTE]\n> **Last updated: {update_time}**\n\n")
         
