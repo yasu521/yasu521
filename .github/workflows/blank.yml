@@ -43,7 +43,7 @@ jobs:
           git pull --rebase origin main
       
           # 再生成されたファイルを追加
-          if [ -f language_usage.json ]; then git add language.json; fi
+          if [ -f language_usage.json ]; then git add language_usage.json; fi
           git add README.md language_usage.png
       
           # 変更がなくても常に新しいコミットを作成
