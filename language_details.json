@@ -83,7 +83,7 @@
         ]
     },
     "JavaScript": {
-        "file_count": 18,
+        "file_count": 15,
         "max_steps": 30039,
         "top_imports": [
             [
@@ -107,5 +107,10 @@
                 1
             ]
         ]
+    },
+    "HTML": {
+        "file_count": 5,
+        "max_steps": 1061,
+        "top_imports": []
     }
 }
