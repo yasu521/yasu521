@@ -57,7 +57,7 @@
         ]
     },
     "Jupyter Notebook": {
-        "file_count": 137,
+        "file_count": 140,
         "max_steps": 514055,
         "top_imports": [
             [
@@ -83,7 +83,7 @@
         ]
     },
     "JavaScript": {
-        "file_count": 20,
+        "file_count": 15,
         "max_steps": 30039,
         "top_imports": [
             [
@@ -107,6 +107,11 @@
                 1
             ]
         ]
+    },
+    "CSS": {
+        "file_count": 27,
+        "max_steps": 2268,
+        "top_imports": []
     },
     "HTML": {
         "file_count": 72,

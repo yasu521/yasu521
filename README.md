@@ -3,7 +3,7 @@
 ## Language Usage
 
 >[!NOTE]
-> **Last updated: 2024-12-09 04:04:04 UTC**
+> **Last updated: 2024-12-10 03:53:22 UTC**
 
 >![Python](https://img.shields.io/badge/Language-Python-blue) ![C](https://img.shields.io/badge/Language-C-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 >![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet) ![Solidity](https://img.shields.io/badge/Language-Solidity-gray)
@@ -12,11 +12,12 @@
 >[!CAUTION]
 > **language_usage = total_steps_languages:** 
 
-- Python: 28.2%
-- None: 1.37%
-- C: 30.61%
-- Jupyter Notebook: 39.35%
+- Python: 27.9%
+- None: 1.35%
+- C: 30.28%
+- Jupyter Notebook: 39.9%
 - JavaScript: 0.31%
+- CSS: 0.1%
 - HTML: 0.16%
 
 ![Language Usage Chart](language_usage.png)
@@ -24,7 +25,7 @@
 ## Language Details (Top 3)
 
 ### Jupyter Notebook
-- File count: 137
+- File count: 140
 - Max steps in a file: 514055
 
 ### C
