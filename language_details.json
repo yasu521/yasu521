@@ -110,11 +110,11 @@
     },
     "CSS": {
         "file_count": 27,
-        "max_steps": 2268,
+        "max_steps": 9964,
         "top_imports": []
     },
     "HTML": {
-        "file_count": 72,
+        "file_count": 75,
         "max_steps": 1143,
         "top_imports": []
     }
