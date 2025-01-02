@@ -3,7 +3,7 @@
 ## Language Usage
 
 >[!NOTE]
-> **Last updated: 2025-01-01 03:42:15 UTC**
+> **Last updated: 2025-01-02 03:32:23 UTC**
 
 >![Python](https://img.shields.io/badge/Language-Python-blue) ![C](https://img.shields.io/badge/Language-C-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 >![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet) ![Solidity](https://img.shields.io/badge/Language-Solidity-gray)
@@ -12,13 +12,13 @@
 >[!CAUTION]
 > **language_usage = total_steps_languages:** 
 
-- Python: 27.87%
+- Python: 27.8%
 - None: 1.35%
-- C: 30.25%
-- Jupyter Notebook: 39.87%
-- JavaScript: 0.31%
-- CSS: 0.18%
-- HTML: 0.18%
+- C: 30.18%
+- Jupyter Notebook: 39.77%
+- JavaScript: 0.3%
+- CSS: 0.17%
+- HTML: 0.42%
 
 ![Language Usage Chart](language_usage.png)
 
