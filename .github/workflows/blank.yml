@@ -22,15 +22,15 @@ jobs:
         run: |
           pip install requests
           pip install matplotlib
-
-      - name: Run language usage script
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: python calculate_language_usage.py
       - name: Run request site script
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: python request_sites.py
+        
+      - name: Run language usage script
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: python calculate_language_usage.py
 
       - name: Commit changes
         env:
