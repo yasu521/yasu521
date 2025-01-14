@@ -1,27 +1,27 @@
 {
     "Python": {
-        "file_count": 5338,
+        "file_count": 2121,
         "max_steps": 478706,
         "top_imports": [
             [
                 "import torch",
-                1563
-            ],
-            [
-                "import os",
-                714
+                620
             ],
             [
                 "from typing import",
-                542
+                253
+            ],
+            [
+                "import os",
+                225
             ],
             [
                 "import numpy",
-                381
+                147
             ],
             [
                 "import sys",
-                346
+                110
             ]
         ]
     },
@@ -107,15 +107,5 @@
                 1
             ]
         ]
-    },
-    "CSS": {
-        "file_count": 27,
-        "max_steps": 9964,
-        "top_imports": []
-    },
-    "HTML": {
-        "file_count": 93,
-        "max_steps": 13753,
-        "top_imports": []
     }
 }
