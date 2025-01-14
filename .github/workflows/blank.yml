@@ -22,6 +22,7 @@ jobs:
         run: |
           pip install requests
           pip install matplotlib
+          pip install selenium
       - name: Run request site script
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
