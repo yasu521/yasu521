@@ -1,6 +1,6 @@
 # Hi there 👋
 ## Profile
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasu521
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasu521)
 
 ## Language Usage
 
