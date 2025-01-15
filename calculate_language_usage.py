@@ -156,6 +156,8 @@ def save_readme(language_usage, language_data):
 
     with open("README.md", "w") as f:
         f.write("# Hi there 👋\n\n")
+        f.write("## Stats\n")
+        f.write(f">![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasu521)\n")
         f.write("## Language Usage\n\n")
         f.write(f">[!NOTE]\n> **Last updated: {update_time}**\n\n")
         
