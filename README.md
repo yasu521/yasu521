@@ -1,11 +1,11 @@
 # Hi there 👋
-## Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasu521)
 
+## Stats
+>![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasu521)
 ## Language Usage
 
 >[!NOTE]
-> **Last updated: 2025-01-14 23:30:47 UTC**
+> **Last updated: 2025-01-15 01:32:35 UTC**
 
 >![Python](https://img.shields.io/badge/Language-Python-blue) ![C](https://img.shields.io/badge/Language-C-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 >![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet) ![Solidity](https://img.shields.io/badge/Language-Solidity-gray)
