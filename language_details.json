@@ -26,9 +26,23 @@
         ]
     },
     "null": {
-        "file_count": 11,
+        "file_count": 12,
         "max_steps": 58646,
         "top_imports": []
+    },
+    "HTML": {
+        "file_count": 180,
+        "max_steps": 127253,
+        "top_imports": [
+            [
+                "import io",
+                1
+            ],
+            [
+                "import os",
+                1
+            ]
+        ]
     },
     "C": {
         "file_count": 488,
@@ -111,11 +125,6 @@
     "CSS": {
         "file_count": 27,
         "max_steps": 9964,
-        "top_imports": []
-    },
-    "HTML": {
-        "file_count": 133,
-        "max_steps": 10841,
         "top_imports": []
     }
 }
