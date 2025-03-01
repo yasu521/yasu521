@@ -5,7 +5,7 @@
 ## Language Usage
 
 >[!NOTE]
-> **Last updated: 2025-02-01 02:01:45 UTC**
+> **Last updated: 2025-03-01 02:02:02 UTC**
 
 >![Python](https://img.shields.io/badge/Language-Python-blue) ![C](https://img.shields.io/badge/Language-C-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 >![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet) ![Solidity](https://img.shields.io/badge/Language-Solidity-gray)
@@ -14,26 +14,35 @@
 >[!CAUTION]
 > **language_usage = total_steps_languages:** 
 
-- Python: 26.32%
-- None: 1.28%
-- HTML: 5.74%
-- C: 28.57%
-- Jupyter Notebook: 37.64%
-- JavaScript: 0.29%
-- CSS: 0.17%
+- HTML: 1.19%
+- Python: 80.84%
+- Dart: 0.67%
+- JavaScript: 4.64%
+- TypeScript: 0.52%
+- Vue: 0.02%
+- None: 0.23%
+- Shell: 0.0%
+- Rust: 0.0%
+- Jupyter Notebook: 6.74%
+- C++: 0.01%
+- Objective-C: 0.01%
+- C: 5.08%
+- Hack: 0.0%
+- CSS: 0.03%
+- Java: 0.04%
 
 ![Language Usage Chart](language_usage.png)
 
 ## Language Details (Top 3)
 
+### Python
+- File count: 9428
+- Max steps in a file: 965538
+
 ### Jupyter Notebook
-- File count: 140
+- File count: 154
 - Max steps in a file: 514055
 
 ### C
 - File count: 488
 - Max steps in a file: 86680
-
-### Python
-- File count: 5339
-- Max steps in a file: 478706
