@@ -1,6 +1,6 @@
 {
     "HTML": {
-        "file_count": 292,
+        "file_count": 300,
         "max_steps": 127253,
         "top_imports": [
             [
@@ -25,29 +25,60 @@
             ]
         ]
     },
-    "Python": {
-        "file_count": 9428,
-        "max_steps": 965538,
+    "null": {
+        "file_count": 14,
+        "max_steps": 305,
+        "top_imports": []
+    },
+    "JavaScript": {
+        "file_count": 1940,
+        "max_steps": 987100,
         "top_imports": [
+            [
+                "import FlutterMacOS",
+                8
+            ],
+            [
+                "import Cocoa",
+                6
+            ],
+            [
+                "import Flutter",
+                4
+            ],
+            [
+                "import UIKit",
+                4
+            ],
+            [
+                "import XCTest",
+                4
+            ]
+        ]
+    },
+    "Python": {
+        "file_count": 13800,
+        "max_steps": 987351,
+        "top_imports": [
+            [
+                "from typing import",
+                2566
+            ],
             [
                 "import torch",
                 1586
             ],
             [
-                "from typing import",
-                1067
-            ],
-            [
                 "import os",
-                895
+                1262
             ],
             [
                 "import sys",
-                540
+                937
             ],
             [
-                "import numpy",
-                393
+                "from __future__ import",
+                701
             ]
         ]
     },
@@ -74,32 +105,6 @@
             [
                 "import io",
                 8
-            ]
-        ]
-    },
-    "JavaScript": {
-        "file_count": 536,
-        "max_steps": 942171,
-        "top_imports": [
-            [
-                "from fastapi import",
-                4
-            ],
-            [
-                "import FlutterMacOS",
-                4
-            ],
-            [
-                "import os",
-                3
-            ],
-            [
-                "from dotenv import",
-                3
-            ],
-            [
-                "from typing import",
-                3
             ]
         ]
     },
@@ -154,11 +159,6 @@
                 1
             ]
         ]
-    },
-    "null": {
-        "file_count": 14,
-        "max_steps": 58646,
-        "top_imports": []
     },
     "Shell": {
         "file_count": 6,
@@ -263,27 +263,5 @@
         "file_count": 27,
         "max_steps": 9964,
         "top_imports": []
-    },
-    "Java": {
-        "file_count": 74,
-        "max_steps": 963,
-        "top_imports": [
-            [
-                "import com",
-                266
-            ],
-            [
-                "import java",
-                154
-            ],
-            [
-                "import CryptoServerAPI",
-                51
-            ],
-            [
-                "import CryptoServerCXI",
-                43
-            ]
-        ]
     }
 }
