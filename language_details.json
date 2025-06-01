@@ -1,32 +1,6 @@
 {
-    "TypeScript": {
-        "file_count": 11458,
-        "max_steps": 475081,
-        "top_imports": [
-            [
-                "import type",
-                679
-            ],
-            [
-                "import Link",
-                69
-            ],
-            [
-                "import React",
-                45
-            ],
-            [
-                "import user",
-                32
-            ],
-            [
-                "import Image",
-                14
-            ]
-        ]
-    },
     "JavaScript": {
-        "file_count": 1469,
+        "file_count": 1482,
         "max_steps": 987100,
         "top_imports": [
             [
@@ -51,22 +25,48 @@
             ]
         ]
     },
-    "null": {
-        "file_count": 15,
-        "max_steps": 570,
-        "top_imports": []
-    },
-    "Python": {
-        "file_count": 64669,
-        "max_steps": 987351,
+    "TypeScript": {
+        "file_count": 2239,
+        "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                3331
+                145
             ],
             [
+                "import Link",
+                85
+            ],
+            [
+                "import utils",
+                26
+            ],
+            [
+                "import Image",
+                24
+            ],
+            [
+                "import AxiosError",
+                12
+            ]
+        ]
+    },
+    "null": {
+        "file_count": 14,
+        "max_steps": 16157,
+        "top_imports": []
+    },
+    "Python": {
+        "file_count": 56380,
+        "max_steps": 987351,
+        "top_imports": [
+            [
                 "from typing import",
-                2576
+                2931
+            ],
+            [
+                "import type",
+                2432
             ],
             [
                 "import torch",
@@ -74,37 +74,37 @@
             ],
             [
                 "import os",
-                1274
+                1505
             ],
             [
                 "import sys",
-                938
+                1159
             ]
         ]
     },
     "HTML": {
-        "file_count": 498,
+        "file_count": 265,
         "max_steps": 631759,
         "top_imports": [
             [
                 "import os",
-                9
+                2
             ],
             [
-                "from dotenv import",
-                6
+                "from os import",
+                2
             ],
             [
-                "from utilities import",
-                4
+                "from flask import",
+                2
             ],
             [
-                "import logging",
-                4
+                "from db import",
+                2
             ],
             [
-                "import traceback",
-                4
+                "from llm_pipeline import",
+                2
             ]
         ]
     },
@@ -253,10 +253,5 @@
                 1
             ]
         ]
-    },
-    "CSS": {
-        "file_count": 27,
-        "max_steps": 9964,
-        "top_imports": []
     }
 }
