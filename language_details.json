@@ -1,6 +1,6 @@
 {
     "JavaScript": {
-        "file_count": 1482,
+        "file_count": 1440,
         "max_steps": 987100,
         "top_imports": [
             [
@@ -26,16 +26,16 @@
         ]
     },
     "TypeScript": {
-        "file_count": 2239,
+        "file_count": 1502,
         "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                145
+                131
             ],
             [
                 "import Link",
-                85
+                84
             ],
             [
                 "import utils",
@@ -52,21 +52,17 @@
         ]
     },
     "null": {
-        "file_count": 14,
+        "file_count": 11,
         "max_steps": 16157,
         "top_imports": []
     },
     "Python": {
-        "file_count": 56380,
-        "max_steps": 987351,
+        "file_count": 45498,
+        "max_steps": 716465,
         "top_imports": [
             [
-                "from typing import",
-                2931
-            ],
-            [
                 "import type",
-                2432
+                2430
             ],
             [
                 "import torch",
@@ -74,157 +70,41 @@
             ],
             [
                 "import os",
-                1505
+                978
+            ],
+            [
+                "from typing import",
+                916
             ],
             [
                 "import sys",
-                1159
+                576
             ]
         ]
     },
     "HTML": {
-        "file_count": 265,
+        "file_count": 2691,
         "max_steps": 631759,
         "top_imports": [
             [
-                "import os",
-                2
+                "import Node",
+                19
             ],
             [
-                "from os import",
-                2
-            ],
-            [
-                "from flask import",
-                2
-            ],
-            [
-                "from db import",
-                2
-            ],
-            [
-                "from llm_pipeline import",
-                2
-            ]
-        ]
-    },
-    "Dart": {
-        "file_count": 1085,
-        "max_steps": 161141,
-        "top_imports": [
-            [
-                "import FlutterMacOS",
-                15
-            ],
-            [
-                "import Cocoa",
+                "import type",
                 10
             ],
             [
-                "import UIKit",
+                "import Lenis",
                 9
             ],
             [
-                "import Flutter",
-                9
-            ],
-            [
-                "import io",
+                "import InputNode",
                 8
-            ]
-        ]
-    },
-    "Vue": {
-        "file_count": 31,
-        "max_steps": 10755,
-        "top_imports": [
-            [
-                "import Demos",
-                1
             ],
             [
-                "import App",
-                1
-            ],
-            [
-                "import ky",
-                1
-            ],
-            [
-                "import dayjs",
-                1
-            ],
-            [
-                "import BulletList",
-                1
-            ]
-        ]
-    },
-    "Shell": {
-        "file_count": 6,
-        "max_steps": 44,
-        "top_imports": []
-    },
-    "Rust": {
-        "file_count": 3,
-        "max_steps": 59,
-        "top_imports": []
-    },
-    "Jupyter Notebook": {
-        "file_count": 154,
-        "max_steps": 514055,
-        "top_imports": [
-            [
-                "import torch",
-                5
-            ],
-            [
-                "import os",
-                4
-            ],
-            [
-                "import requests",
-                3
-            ],
-            [
-                "import time",
-                3
-            ],
-            [
-                "import pickle",
-                3
-            ]
-        ]
-    },
-    "C++": {
-        "file_count": 90,
-        "max_steps": 609,
-        "top_imports": [
-            [
-                "import io",
-                1
-            ],
-            [
-                "import UIKit",
-                1
-            ],
-            [
-                "import Flutter",
-                1
-            ]
-        ]
-    },
-    "Objective-C": {
-        "file_count": 51,
-        "max_steps": 1898,
-        "top_imports": [
-            [
-                "import UIKit",
-                3
-            ],
-            [
-                "import TTTAttributedLabel",
-                1
+                "import chalk",
+                6
             ]
         ]
     },
@@ -250,6 +130,32 @@
             ],
             [
                 "import reportWebVitals",
+                1
+            ]
+        ]
+    },
+    "Jupyter Notebook": {
+        "file_count": 140,
+        "max_steps": 514055,
+        "top_imports": [
+            [
+                "import time",
+                2
+            ],
+            [
+                "import torch",
+                2
+            ],
+            [
+                "import requests",
+                1
+            ],
+            [
+                "from bs4 import",
+                1
+            ],
+            [
+                "import json",
                 1
             ]
         ]
