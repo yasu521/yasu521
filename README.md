@@ -5,7 +5,7 @@
 ## Language Usage
 
 >[!NOTE]
-> **Last updated: 2025-07-01 04:08:59 UTC**
+> **Last updated: 2025-08-01 04:02:32 UTC**
 
 >![Python](https://img.shields.io/badge/Language-Python-blue) ![C](https://img.shields.io/badge/Language-C-lightgrey) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 >![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet) ![Solidity](https://img.shields.io/badge/Language-Solidity-gray)
@@ -14,13 +14,13 @@
 >[!CAUTION]
 > **language_usage = total_steps_languages:** 
 
-- JavaScript: 25.06%
-- TypeScript: 6.4%
+- JavaScript: 25.01%
+- TypeScript: 6.39%
 - None: 0.06%
-- Python: 29.35%
-- HTML: 14.74%
-- C: 10.53%
-- Jupyter Notebook: 13.87%
+- Python: 29.3%
+- HTML: 14.88%
+- C: 10.51%
+- Jupyter Notebook: 13.85%
 
 ![Language Usage Chart](language_usage.png)
 
@@ -35,5 +35,5 @@
 - Max steps in a file: 987100
 
 ### HTML
-- File count: 2691
+- File count: 2697
 - Max steps in a file: 631759
