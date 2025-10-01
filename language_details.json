@@ -26,12 +26,12 @@
         ]
     },
     "TypeScript": {
-        "file_count": 1502,
+        "file_count": 1606,
         "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                131
+                138
             ],
             [
                 "import Link",
@@ -52,17 +52,17 @@
         ]
     },
     "null": {
-        "file_count": 11,
+        "file_count": 15,
         "max_steps": 16157,
         "top_imports": []
     },
     "Python": {
-        "file_count": 45475,
+        "file_count": 44231,
         "max_steps": 716465,
         "top_imports": [
             [
                 "import type",
-                2430
+                2193
             ],
             [
                 "import torch",
@@ -70,7 +70,7 @@
             ],
             [
                 "import os",
-                978
+                981
             ],
             [
                 "from typing import",
@@ -78,7 +78,7 @@
             ],
             [
                 "import sys",
-                576
+                577
             ]
         ]
     },
@@ -105,6 +105,32 @@
             [
                 "import chalk",
                 6
+            ]
+        ]
+    },
+    "HCL": {
+        "file_count": 343,
+        "max_steps": 13420,
+        "top_imports": [
+            [
+                "import React",
+                22
+            ],
+            [
+                "import z",
+                16
+            ],
+            [
+                "import type",
+                8
+            ],
+            [
+                "from fastapi import",
+                3
+            ],
+            [
+                "from mangum import",
+                3
             ]
         ]
     },
