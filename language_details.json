@@ -26,43 +26,64 @@
         ]
     },
     "TypeScript": {
-        "file_count": 1606,
+        "file_count": 2187,
         "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                138
+                243
             ],
             [
                 "import Link",
-                84
+                122
+            ],
+            [
+                "import z",
+                42
+            ],
+            [
+                "import React",
+                40
             ],
             [
                 "import utils",
                 26
-            ],
-            [
-                "import Image",
-                24
-            ],
-            [
-                "import AxiosError",
-                12
             ]
         ]
     },
     "null": {
-        "file_count": 15,
+        "file_count": 36,
         "max_steps": 16157,
-        "top_imports": []
+        "top_imports": [
+            [
+                "import os",
+                11
+            ],
+            [
+                "from dotenv import",
+                8
+            ],
+            [
+                "import sys",
+                7
+            ],
+            [
+                "import traceback",
+                7
+            ],
+            [
+                "from datetime import",
+                6
+            ]
+        ]
     },
     "Python": {
-        "file_count": 44231,
+        "file_count": 43897,
         "max_steps": 716465,
         "top_imports": [
             [
                 "import type",
-                2193
+                2191
             ],
             [
                 "import torch",
@@ -70,15 +91,15 @@
             ],
             [
                 "import os",
-                981
+                1019
             ],
             [
                 "from typing import",
-                916
+                941
             ],
             [
                 "import sys",
-                577
+                606
             ]
         ]
     },
@@ -105,32 +126,6 @@
             [
                 "import chalk",
                 6
-            ]
-        ]
-    },
-    "HCL": {
-        "file_count": 343,
-        "max_steps": 13420,
-        "top_imports": [
-            [
-                "import React",
-                22
-            ],
-            [
-                "import z",
-                16
-            ],
-            [
-                "import type",
-                8
-            ],
-            [
-                "from fastapi import",
-                3
-            ],
-            [
-                "from mangum import",
-                3
             ]
         ]
     },
