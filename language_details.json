@@ -1,6 +1,6 @@
 {
     "JavaScript": {
-        "file_count": 1440,
+        "file_count": 1533,
         "max_steps": 987100,
         "top_imports": [
             [
@@ -78,12 +78,12 @@
         ]
     },
     "Python": {
-        "file_count": 43897,
+        "file_count": 47115,
         "max_steps": 716465,
         "top_imports": [
             [
                 "import type",
-                2191
+                2430
             ],
             [
                 "import torch",
@@ -104,30 +104,9 @@
         ]
     },
     "HTML": {
-        "file_count": 2697,
+        "file_count": 160,
         "max_steps": 631759,
-        "top_imports": [
-            [
-                "import Node",
-                19
-            ],
-            [
-                "import type",
-                10
-            ],
-            [
-                "import Lenis",
-                9
-            ],
-            [
-                "import InputNode",
-                8
-            ],
-            [
-                "import chalk",
-                6
-            ]
-        ]
+        "top_imports": []
     },
     "C": {
         "file_count": 488,
