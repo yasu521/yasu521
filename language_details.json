@@ -78,7 +78,7 @@
         ]
     },
     "Python": {
-        "file_count": 46113,
+        "file_count": 46172,
         "max_steps": 716465,
         "top_imports": [
             [
@@ -91,15 +91,15 @@
             ],
             [
                 "import os",
-                1035
+                1059
             ],
             [
                 "from typing import",
-                977
+                1003
             ],
             [
                 "import sys",
-                618
+                622
             ]
         ]
     },
