@@ -26,20 +26,16 @@
         ]
     },
     "TypeScript": {
-        "file_count": 2773,
-        "max_steps": 631759,
+        "file_count": 2160,
+        "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                290
+                240
             ],
             [
                 "import Link",
-                140
-            ],
-            [
-                "import Image",
-                42
+                122
             ],
             [
                 "import z",
@@ -48,6 +44,10 @@
             [
                 "import React",
                 40
+            ],
+            [
+                "import utils",
+                26
             ]
         ]
     },
@@ -57,12 +57,12 @@
         "top_imports": []
     },
     "Python": {
-        "file_count": 53165,
+        "file_count": 48098,
         "max_steps": 716465,
         "top_imports": [
             [
                 "import type",
-                3194
+                2431
             ],
             [
                 "import torch",
@@ -130,6 +130,32 @@
             ],
             [
                 "import json",
+                1
+            ]
+        ]
+    },
+    "HTML": {
+        "file_count": 411,
+        "max_steps": 476544,
+        "top_imports": [
+            [
+                "import type",
+                59
+            ],
+            [
+                "import Image",
+                10
+            ],
+            [
+                "import Link",
+                10
+            ],
+            [
+                "import dynamic",
+                1
+            ],
+            [
+                "import useEmblaCarousel",
                 1
             ]
         ]
