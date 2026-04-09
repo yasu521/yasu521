@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Stats
->![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ciao521)
+>![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ciao521&theme=default)
 ## Language Usage
 
 >[!NOTE]
