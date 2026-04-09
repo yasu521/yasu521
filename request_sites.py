@@ -6,8 +6,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # 監視したいURLリスト
 URLS = [
-    "https://yasuhiroiwai.jp",
-    "https://ciao521.github.io",
+    "https://ciao521.github.io/ciao521/",
 ]
 
 def request_site(url):
