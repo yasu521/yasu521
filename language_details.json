@@ -1,8 +1,20 @@
 {
     "JavaScript": {
-        "file_count": 1533,
+        "file_count": 2155,
         "max_steps": 987100,
         "top_imports": [
+            [
+                "import type",
+                69
+            ],
+            [
+                "import Link",
+                14
+            ],
+            [
+                "import Image",
+                13
+            ],
             [
                 "import FlutterMacOS",
                 4
@@ -10,28 +22,16 @@
             [
                 "import Cocoa",
                 3
-            ],
-            [
-                "import time",
-                2
-            ],
-            [
-                "import Flutter",
-                2
-            ],
-            [
-                "import UIKit",
-                2
             ]
         ]
     },
     "TypeScript": {
-        "file_count": 2162,
+        "file_count": 2240,
         "max_steps": 425269,
         "top_imports": [
             [
                 "import type",
-                240
+                243
             ],
             [
                 "import Link",
@@ -57,7 +57,7 @@
         "top_imports": []
     },
     "Python": {
-        "file_count": 49579,
+        "file_count": 49581,
         "max_steps": 716465,
         "top_imports": [
             [
@@ -130,32 +130,6 @@
             ],
             [
                 "import json",
-                1
-            ]
-        ]
-    },
-    "HTML": {
-        "file_count": 415,
-        "max_steps": 476544,
-        "top_imports": [
-            [
-                "import type",
-                60
-            ],
-            [
-                "import Image",
-                10
-            ],
-            [
-                "import Link",
-                10
-            ],
-            [
-                "import dynamic",
-                1
-            ],
-            [
-                "import useEmblaCarousel",
                 1
             ]
         ]
